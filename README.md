@@ -1,3 +1,9 @@
+# Tugas Individu 3
+Website yang berisi halaman home, about us dan contactmenggunakan React JS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
